@@ -37,4 +37,18 @@ div {
   background-color: cadetblue;
 }
 
+.right{
+  height: 1000px;
+  width: 45px;
+  background-color: antiquewhite;
+  float: right;
+  position: inherit;
+}
 
+.stuff {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  
+}
