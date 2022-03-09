@@ -50,5 +50,15 @@ div {
   margin-top: 6px;
   margin-left: 55px;
   width: 75%;
-  
+
+}
+
+p,
+li {
+  font-family:'Times New Roman', Times, serif;
+}
+
+.head {
+  font-family: 'Courier New', Courier, monospace;
+  float: right;
 }
