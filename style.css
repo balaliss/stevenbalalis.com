@@ -1,4 +1,4 @@
-*{
+* {
   max-width: 700px;
   margin: auto;
 }
@@ -19,8 +19,8 @@ div {
   z-index: 1;
 }
 
-#title { 
-      margin-left: 3%;
+#title {
+  margin-left: 3%;
 }
 
 #footer {
@@ -31,13 +31,13 @@ div {
   position: relative;
 }
 
-.left{
+.left {
   height: 1000px;
   width: 45px;
   background-color: cadetblue;
 }
 
-.right{
+.right {
   height: 1000px;
   width: 45px;
   background-color: antiquewhite;
@@ -50,15 +50,14 @@ div {
   margin-top: 6px;
   margin-left: 55px;
   width: 75%;
-
 }
 
 p,
 li {
-  font-family:'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .head {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   float: right;
 }
