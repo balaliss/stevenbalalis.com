@@ -19,6 +19,13 @@ div {
   z-index: 1;
 }
 
+* {
+
+  text-align: center;
+  
+  }
+
+  
 #title {
   margin-left: 3%;
 }
