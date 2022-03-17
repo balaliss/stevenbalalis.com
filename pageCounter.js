@@ -1,20 +1,12 @@
-<div id="CounterVisitor">
-    </div>
-    
-    <script>
-    var n = localStorage.getItem('on_load_counter');
-    
-    if (n === null) {
-      n = 0;
-    }
-    n++;
-    
-    localStorage.setItem("on_load_counter", n);
-    
-    nums = n.toString().split('').map(Number);
-    document.getElementById('CounterVisitor').innerHTML = '';
-    for (var i of nums) {
-      document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + i + '</span>';
-    }
-    
-    </script>
+/*
+VIEW IN FULL MODE :: IT LOOKS MUCH BETTER WHEN VIEWED IN FULL MODE
+
+
+my intention was to use lettering.js to create the word* classes, but for some reason it didn't generate them even after including the script and calling it, it works locally but not on codepen*/
+
+/*
+
+Librarian Image is from Dribbble: http://dribbble.com/shots/271458-Librarian 
+by talented "Artua"
+
+*/
